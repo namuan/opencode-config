@@ -1,0 +1,1 @@
+/Users/nnn/workspace/namuan/agents/prompts/sdlc/requirements.agent.md

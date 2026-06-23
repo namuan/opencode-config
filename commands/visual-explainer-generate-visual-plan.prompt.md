@@ -1,0 +1,1 @@
+/Users/nnn/workspace/namuan/agents/prompts/visual-explainer/generate-visual-plan.prompt.md

@@ -1,0 +1,1 @@
+/Users/nnn/workspace/namuan/agents/prompts/ralph/executor.agent.md

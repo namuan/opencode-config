@@ -1,0 +1,1 @@
+/Users/nnn/workspace/namuan/agents/prompts/visual-explainer/project-recap.prompt.md

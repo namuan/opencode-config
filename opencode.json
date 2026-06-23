@@ -1,0 +1,80 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "agent": {
+    "build": {
+      "model": "opencode-go/deepseek-v4-flash",
+      "prompt": "agent-prompts/default.md"
+    },
+    "plan": {
+      "model": "opencode-go/deepseek-v4-pro",
+      "prompt": "agent-prompts/default.md"
+    },
+    "general": {
+      "prompt": "agent-promptsgeneral.md",
+      "mode": "subagent",
+      "model": "opencode/deepseek-v4-flash-free"
+    },
+    "explore": {
+      "prompt": "agent-prompts/explore.md",
+      "mode": "subagent",
+      "model": "opencode/deepseek-v4-flash-free"
+    },
+    "compaction": {
+      "prompt": "agent-prompts/compaction.md",
+      "model": "opencode-go/deepseek-v4-flash"
+    },
+    "quick": {
+      "model": "opencode-go/deepseek-v4-pro"
+    }
+  },
+  "compaction": {
+    "model": "opencode-go/deepseek-v4-flash"
+  },
+  "permission": {
+    "read": {
+      "~/.ssh/**": "deny",
+      "~/.docker/**": "deny",
+      ".env*": "deny",
+      "*.pem": "deny",
+      "*.key": "deny",
+      "*.p12": "deny",
+      "*.jks": "deny",
+      "*credentials*": "deny"
+    },
+    "edit": {
+      "~/.ssh/**": "deny",
+      "~/.docker/**": "deny"
+    },
+    "bash": {
+      "git status *": "allow",
+      "git *": "ask",
+      "rm *credentials*": "deny",
+      "rm *.env*": "deny"
+    }
+  },
+  "provider": {
+    "llama.cpp": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "llama.cpp local server",
+      "options": {
+        "baseURL": "http://127.0.0.1:9090/v1"
+      },
+      "models": {
+        "llama-cpp-local": {
+          "name": "Local via llama.cpp",
+          "attachment": true,
+          "modalities": {
+            "input": ["text", "image"],
+            "output": ["text"]
+          },
+          "limit": {
+            "context": 262144,
+            "output": 32000
+          }
+        }
+      }
+    }
+  },
+  "share": "disabled",
+  "plugin": [""]
+}

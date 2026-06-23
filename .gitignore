@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+bun.lock
+package-lock.json
+
+# macOS system files
+.DS_Store
+
+# Runtime state (SQLite)
+ensemble.db
+ensemble.db-shm
+ensemble.db-wal
