@@ -1,1 +1,0 @@
-/Users/nnn/workspace/namuan/agents/prompts/docs/scout.agent.md

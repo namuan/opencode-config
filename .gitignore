@@ -10,3 +10,6 @@ package-lock.json
 ensemble.db
 ensemble.db-shm
 ensemble.db-wal
+
+# Commands folder (generated symlinks, not part of repo)
+commands/

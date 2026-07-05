@@ -1,1 +1,0 @@
-/Users/nnn/workspace/namuan/agents/prompts/visual-explainer/fact-check.prompt.md

@@ -1,1 +1,0 @@
-/Users/nnn/workspace/namuan/agents/prompts/sdlc/code-review.agent.md
