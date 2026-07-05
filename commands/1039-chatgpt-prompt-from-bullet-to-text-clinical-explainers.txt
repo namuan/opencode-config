@@ -1,1 +1,1 @@
-/Users/nnn/workspace/namuan//prompts/1039-chatgpt-prompt-from-bullet-to-text-clinical-explainers.txt
+/Users/nnn/workspace/namuan/prompts/1039-chatgpt-prompt-from-bullet-to-text-clinical-explainers.txt

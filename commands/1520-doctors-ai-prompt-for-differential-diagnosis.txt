@@ -1,1 +1,1 @@
-/Users/nnn/workspace/namuan//prompts/1520-doctors-ai-prompt-for-differential-diagnosis.txt
+/Users/nnn/workspace/namuan/prompts/1520-doctors-ai-prompt-for-differential-diagnosis.txt

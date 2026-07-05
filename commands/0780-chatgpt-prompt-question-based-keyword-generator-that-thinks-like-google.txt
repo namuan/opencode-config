@@ -1,1 +1,1 @@
-/Users/nnn/workspace/namuan//prompts/0780-chatgpt-prompt-question-based-keyword-generator-that-thinks-like-google.txt
+/Users/nnn/workspace/namuan/prompts/0780-chatgpt-prompt-question-based-keyword-generator-that-thinks-like-google.txt

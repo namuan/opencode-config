@@ -1,1 +1,1 @@
-/Users/nnn/workspace/namuan//prompts/0883-prompt-humanized-content-creator-and-detector.txt
+/Users/nnn/workspace/namuan/prompts/0883-prompt-humanized-content-creator-and-detector.txt

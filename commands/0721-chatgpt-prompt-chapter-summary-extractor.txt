@@ -1,1 +1,1 @@
-/Users/nnn/workspace/namuan//prompts/0721-chatgpt-prompt-chapter-summary-extractor.txt
+/Users/nnn/workspace/namuan/prompts/0721-chatgpt-prompt-chapter-summary-extractor.txt

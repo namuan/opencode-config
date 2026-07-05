@@ -1,1 +1,1 @@
-/Users/nnn/workspace/namuan//prompts/1126-chatgpt-prompt-adaptive-dip-detector-quit-or-keep-going.txt
+/Users/nnn/workspace/namuan/prompts/1126-chatgpt-prompt-adaptive-dip-detector-quit-or-keep-going.txt

@@ -1,1 +1,1 @@
-/Users/nnn/workspace/namuan//prompts/0752-chatgpt-prompt-generate-or-transform-any-image-into-ghibli-style-art.txt
+/Users/nnn/workspace/namuan/prompts/0752-chatgpt-prompt-generate-or-transform-any-image-into-ghibli-style-art.txt

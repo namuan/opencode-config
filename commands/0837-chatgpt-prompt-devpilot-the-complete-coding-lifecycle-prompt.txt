@@ -1,1 +1,1 @@
-/Users/nnn/workspace/namuan//prompts/0837-chatgpt-prompt-devpilot-the-complete-coding-lifecycle-prompt.txt
+/Users/nnn/workspace/namuan/prompts/0837-chatgpt-prompt-devpilot-the-complete-coding-lifecycle-prompt.txt

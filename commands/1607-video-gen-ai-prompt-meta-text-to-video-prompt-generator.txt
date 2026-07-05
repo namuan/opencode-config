@@ -1,1 +1,1 @@
-/Users/nnn/workspace/namuan//prompts/1607-video-gen-ai-prompt-meta-text-to-video-prompt-generator.txt
+/Users/nnn/workspace/namuan/prompts/1607-video-gen-ai-prompt-meta-text-to-video-prompt-generator.txt

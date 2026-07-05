@@ -1,1 +1,1 @@
-/Users/nnn/workspace/namuan//prompts/1034-chatgpt-prompt-rapid-patient-snapshot-generator-for-clinical-precision.txt
+/Users/nnn/workspace/namuan/prompts/1034-chatgpt-prompt-rapid-patient-snapshot-generator-for-clinical-precision.txt
