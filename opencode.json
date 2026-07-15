@@ -1,5 +1,6 @@
 {
   "$schema": "https://opencode.ai/config.json",
+  "default_agent": "orchestrator",
   "agent": {
     "build": {
       "model": "opencode-go/deepseek-v4-flash",
@@ -21,7 +22,7 @@
     "explore": {
       "prompt": "agent-prompts/explore.md",
       "mode": "subagent",
-      "model": "opencode/deepseek-v4-flash-free"
+      "model": "opencode-go/deepseek-v4-flash"
     },
     "compaction": {
       "prompt": "agent-prompts/compaction.md",
