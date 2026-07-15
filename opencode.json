@@ -22,7 +22,7 @@
     "explore": {
       "prompt": "agent-prompts/explore.md",
       "mode": "subagent",
-      "model": "opencode-go/deepseek-v4-flash"
+      "model": "opencode/deepseek-v4-flash-free"
     },
     "compaction": {
       "prompt": "agent-prompts/compaction.md",
