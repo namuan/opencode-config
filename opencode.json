@@ -7,8 +7,7 @@
     },
     "advisor": {
       "model": "openai/gpt-5.5",
-      "mode": "subagent",
-      "prompt": "agent-prompts/general.md"
+      "prompt": "agent-prompts/advisor.md"
     },
     "plan": {
       "model": "opencode-go/deepseek-v4-pro",
@@ -103,7 +102,5 @@
     }
   },
   "share": "disabled",
-  "plugin": [
-    "/Users/nnn/code-reference/magic-compact"
-  ]
+  "plugin": ["/Users/nnn/code-reference/magic-compact"]
 }
