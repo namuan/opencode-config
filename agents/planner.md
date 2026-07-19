@@ -1,6 +1,7 @@
 ---
 description: Plan-mode orchestrator for the Fusion team. Same planning brain as the main agent, but it does not execute - it investigates read-only (reading files directly or delegating larger searches to subagents) and produces a reviewed plan, then hands off to orchestrator to carry it out. Cannot edit files or run state-changing commands.
 mode: primary
+model: openai/gpt-5.6-sol
 permission:
   edit: deny
   grep: deny

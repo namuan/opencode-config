@@ -1,18 +1,14 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  "default_agent": "orchestrator",
+  "default_agent": "build",
   "agent": {
     "build": {
       "model": "opencode-go/deepseek-v4-flash",
       "prompt": "agent-prompts/default.md"
     },
-    "advisor": {
-      "model": "openai/gpt-5.6-terra",
-      "prompt": "agent-prompts/advisor.md"
-    },
     "plan": {
-      "model": "opencode-go/deepseek-v4-pro",
-      "prompt": "agent-prompts/default.md"
+      "model": "opencode/big-pickle",
+      "prompt": "agent-prompts/default-plan.md"
     },
     "general": {
       "prompt": "agent-prompts/general.md",
