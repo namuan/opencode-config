@@ -45,6 +45,7 @@
     },
     "bash": {
       "git *": "ask",
+      "git notes*": "allow",
       "git status*": "allow",
       "git diff*": "allow",
       "git log*": "allow",
