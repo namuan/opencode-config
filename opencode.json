@@ -25,7 +25,9 @@
       "model": "opencode/deepseek-v4-flash-free"
     },
     "quick": {
-      "model": "opencode-go/deepseek-v4-pro"
+      "model": "openai/gpt-5.6-luna",
+      "variant": "max",
+      "prompt": "agent-prompts/default.md"
     }
   },
   "permission": {
