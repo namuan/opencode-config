@@ -4,7 +4,10 @@
   "agent": {
     "build": {
       "model": "opencode-go/deepseek-v4-flash",
-      "prompt": "agent-prompts/default.md"
+      "prompt": "agent-prompts/default.md",
+      "permission": {
+        "task": "deny"
+      }
     },
     "plan": {
       "model": "opencode/big-pickle",
