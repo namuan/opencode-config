@@ -13,3 +13,9 @@ ensemble.db-wal
 
 # Commands folder (generated symlinks, not part of repo)
 commands/
+
+# Pi runtime state — never publish (lives in ~/.pi/agent; these are insurance)
+pi/auth.json
+pi/models-store.json
+pi/sessions/
+pi/settings.json
